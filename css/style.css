@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title, h1 {
+    text-align: center;
+}
+
+.card {
+    border-radius: 4px;
+    background-color: #111;
+    display: inline-block;
+}
+
+.nome {
+    color: white;
+}
+
+span {
+    color: #febe01;
+}
